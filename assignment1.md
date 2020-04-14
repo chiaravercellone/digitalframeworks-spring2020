@@ -9,7 +9,7 @@ cities in the U.S. have reduced gas emissions and become "greener" during this t
 countries in Europe have already seen a decrease of gas emissions and helped conserve the planet. I would like to localize and contrast 
 this trend to cities in the United States, and ultimately see what city has shown the most drastic change in gas/carbon emissions. 
 
-### [Critique: Carbon emissions from fossil fuels could fall by 2.5bn tonnes in 2020](https://www.theguardian.com/environment/2020/apr/12/global-carbon-emisions-could-fall-by-record-25bn-tonnes-in-2020)
+### [Critique: Carbon Emissions from Fossil Fuels Could Fall by 2.5bn Tonnes in 2020](https://www.theguardian.com/environment/2020/apr/12/global-carbon-emisions-could-fall-by-record-25bn-tonnes-in-2020)
 
 **Objective: Clarity and Accuracy**
 - For me, given how to the point the headline was and tight the lede was, it was quite easy to follow the article and data visualization.
