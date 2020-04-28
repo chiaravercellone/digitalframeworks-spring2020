@@ -1,11 +1,18 @@
 ## Assignment 3: Create my own dataset
-- I'm curious to see if Congress has passed more or less bills during election years. I think this could be interesting because many people
-assume that because they may be risking their post, congressmen won't be prone to pass bills in case they lose their voters' support. 
-A description of the question you're curious about, and an explanation about how this data could turn into a story. (Imagine this as your
-justification to your editor as to why this is worth your time)
-A list of the things you want to know about any data point
-An explanation of how you'd go about collecting that data (you don't actually have to do it on an ongoing basis, especially if it involves
-staking something out, just tell me how you would do it).
-A table including at least five data points in this dataset
-You can put your data in a google sheet (in which case, put the link in your markdown file) or make a table directly in the 
-markdown document you submit like the example below.
+- I'm curious to see if Congress has passed more or less bills during election years. I think this could be interesting because many people assume that because they may be risking their post, congressmen won't be prone to pass bills in case they lose their voters' support. 
+- Here is a list of things I'll be analyzing: 
+  1. The number of measures Congress introduced during an election year (2020 so far, 2018, 2016, 2014, 2012, 2010)
+  2. The number of bills enacted into law that calendar year
+  3. Whether the House/Senate were led by the Republican Party or the Democratic Party
+  4. The number of bills/resolutions passed by Congress
+  5. How many congressmen were serving their second or more term in Congress. 
+- I will collect this data by looking at Congress's "Final Resume of Congressional Activity," to find the number of measures introduced, bills enacted into law, and passed measures. To see how many congressmen weren't serving their first term, I will search websites that normally track Congress, like govtrack.com, and often times serve helpful statistical information.
+
+| Congress & year | Introduced measures | Bills enacted into law | Passed Measures | Party leading House/Senate | Congressmen serving a second term or more |
+| ----- | ----- | ----- | ------ | --------- | -----------------|
+| 116th, 2020| 914 | 10 | 164 | House=D; Senate=R | 370 |
+| 115th, 2018 | 5,224 | 329 | 1,457 | House=R; Senate=R |407 |
+| 114th, 2016 | 4,180 | 214 | 1,144 | House=R; Senate=R |397 |
+| 113th, 2014 | 3,937 | 224 | 1,066 | House=R; Senate=D | 372 |
+| 112th, 2012 | 5,395 | 194 | 958 | House=R; Senate=D | 360 |
+| 111th, 2010 | 4,604 | 260 | 1491 | House=D; Senate=D | 402 |
