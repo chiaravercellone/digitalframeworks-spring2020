@@ -10,15 +10,15 @@
 
 | Congress & year | Introduced measures | Bills enacted into law | Passed Measures | Party leading House/Senate | Congressmen serving a second term or more |
 | ----- | ----- | ----- | ------ | --------- | -----------------|
-| 116th, 2020 | 914 | 10 | 164 | House=D; Senate=R | 370 |
-| 116th, 2019 | 10,170 | 105 | 1,138 | House=D; Senate=R | 370
-| 115th, 2018 | 5,224 | 329 | 1,457 | House=R; Senate=R |407 |
-| 115th, 2017 | 8,332 | 100 | 1,106 | House=R; Senate=R | 407
-| 114th, 2016 | 4,180 | 214 | 1,144 | House=R; Senate=R |397 |
-| 114th, 2015 | 7,883 | 115 |  966 | House=R; Senate=R | 397
-| 113th, 2014 | 3,937 | 224 | 1,066 | House=R; Senate=D | 372 |
-| 113th, 2013 | 6,714 | 72 |  722 | House=R; Senate=D | 372
-| 112th, 2012 | 5,395 | 194 | 958 | House=R; Senate=D | 360 |
-| 112th, 2011 | 6,903 | 90 | 786 | House=R; Senate=D | 360 |
-| 111th, 2010 | 4,604 | 260 | 1,491 | House=D; Senate=D | 402 |
-| 111th, 2009 | 9,079 | 125 | 1,448 | House=D; Senate=D | 402 |
+| 116th, 2020 | 914 | 10 | 164 | House=Dem; Senate=Rep | 370 |
+| 116th, 2019 | 10,170 | 105 | 1,138 | House=Dem; Senate=Rep | 370
+| 115th, 2018 | 5,224 | 329 | 1,457 | House=Rep; Senate=Rep |407 |
+| 115th, 2017 | 8,332 | 100 | 1,106 | House=Rep; Senate=Rep | 407
+| 114th, 2016 | 4,180 | 214 | 1,144 | House=Rep; Senate=Rep |397 |
+| 114th, 2015 | 7,883 | 115 |  966 | House=Rep; Senate=Rep | 397
+| 113th, 2014 | 3,937 | 224 | 1,066 | House=Rep; Senate=Dem | 372 |
+| 113th, 2013 | 6,714 | 72 |  722 | House=Rep; Senate=Dem | 372
+| 112th, 2012 | 5,395 | 194 | 958 | House=Rep; Senate=Dem | 360 |
+| 112th, 2011 | 6,903 | 90 | 786 | House=Rep; Senate=Dem | 360 |
+| 111th, 2010 | 4,604 | 260 | 1,491 | House=Dem; Senate=Dem | 402 |
+| 111th, 2009 | 9,079 | 125 | 1,448 | House=Dem; Senate=Dem | 402 |
