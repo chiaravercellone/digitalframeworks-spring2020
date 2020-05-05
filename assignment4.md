@@ -1,4 +1,4 @@
-## FINAL STORY PITCH: COVID-19 = "greener" world?
+## FINAL STORY PITCH: COVID-19 = "Greener" World?
 
 I will be looking at whether the coronavirus has, like data predicts, so far impacted in any way climate change and carbon emmissions worldwide. As people have stopped going outside and driving, the price of oil has decreased and, we can safely assume carbon emissions  decreased worlwide at least until March of 2020 before countries (including China) started reopening. 
 
