@@ -1,2 +1,9 @@
-## FINAL STORY PITCH 
+## FINAL STORY PITCH: Carbon emissions + coronavirus = correlation?
 
+I will be looking at whether the coronavirus has, like data predicts, so far impacted in any way climate change and carbon emmissions worldwide. As people have stopped going outside and driving, the price of oil has decreased and, we can safely assume carbon emissions  decreased worlwide at least until March of 2020 before countries (including China) started reopening. 
+
+I will look at reports published by the Energy Information Administration on monthly energy consumption, as well as think tanks' independent research on the matter.
+
+This will be a timely piece given all the predictions and assumptions experts have made. Gathering the data will either prove or dispute these, which I find newsworthy nevertheless. I will be contacting experts that have gone on the record making these predictions and asking them if their take has changed in the last month and a half. I will also use previous energy and carbon emissions' reports as sources for background and context. I believe interviewing experts at the Rhodium Group, an independent researcher looking at global trends in the energy sector, would also be beneficial for the final story. 
+
+I believe a clear visualization will be a chart showing the increase or decrease of carbon emissions. Because there are so many countries to evaluate, I'm thinking I'll choose four data points to visualize: a worldwide upward/downward trend, the United States, China and another country yet to be determined. Perhaps Russia or India, as they rank high in the top world carbon emmitters. However, I do want to try to create a more complex visualization: a world map showing, in green circles, the countries with the biggest drop in carbon emissions and, in red circles, those who didn't show the same downward trend. I believe the circles could be proportional to the country's change in emissions. 
