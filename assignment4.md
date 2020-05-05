@@ -2,7 +2,7 @@
 
 I will be looking at whether the coronavirus has, like data predicts, so far impacted in any way climate change and carbon emmissions worldwide. As people have stopped going outside and driving, the price of oil has decreased and, we can safely assume carbon emissions  decreased worlwide at least until March of 2020 before countries (including China) started reopening. 
 
-I will look at reports published by the Energy Information Administration on monthly energy consumption, as well as think tanks' independent research on the matter.
+I will look at reports published by the Energy Information Administration on monthly energy consumption, as well as think tanks' independent research on the matter like the International Energy Agency's [report](https://www.iea.org/reports/global-energy-review-2020/global-energy-and-co2-emissions-in-2020) on global energy and CO2 emissions. 
 
 This will be a timely piece given all the predictions and assumptions experts have made. Gathering the data will either prove or dispute these, which I find newsworthy nevertheless. I will be contacting experts that have gone on the record making these predictions and asking them if their take has changed in the last month and a half. I will also use previous energy and carbon emissions' reports as sources for background and context. I believe interviewing experts at the Rhodium Group, an independent researcher looking at global trends in the energy sector, would also be beneficial for the final story. 
 
